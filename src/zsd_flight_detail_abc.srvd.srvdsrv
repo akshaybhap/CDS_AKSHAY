@@ -1,0 +1,4 @@
+@EndUserText.label: 'Service Definition for Flight details'
+define service ZSD_FLIGHT_DETAIL_ABC {
+  expose ZC_FLIGHT_DETAIL_ABC;
+}
